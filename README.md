@@ -8,7 +8,7 @@ Computer Science Engineer | Data Analyst | AI & ML Enthusiast
 
 I am a Computer Science Engineering student passionate about building end-to-end software solutions and transforming raw data into meaningful and useful insights. From developing full-stack portals and AI-powered document intelligence tools to engineering automated data pipelines, I like to tackle complex technical challenges.
 
-🔭 I’m currently working on: Scalable web applications and automated reporting workflows.
+🔭 I’m currently working on: Scalable web applications and automated reporting workflows integrated with dashboards.
 
 🌱 I’m currently learning: Advanced Machine Learning techniques and optimizing full-stack architectures.
 
