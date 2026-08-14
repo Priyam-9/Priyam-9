@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyam Patel</h1>
 <h3 align="center">I’m a Computer Science Engineering student and currently working as a Data Analyst Intern at TV9, where I build data-driven systems focused on reader analytics, recommendation engines, and content intelligence. My work revolves around transforming high-volume raw data into scalable analytics pipelines, actionable insights, and intelligent machine learning systems. From designing real-time article recommendation systems to building AI-powered automation workflows and end-to-end data engineering pipelines, I enjoy solving problems where engineering meets business impact. I’m deeply interested in Machine Learning, Recommendation Systems, Data Engineering, Business Intelligence, and Backend System Design.</h3>
 
-- 🔭 I’m currently working on **TV9 Article Recommendation System.**
 
 - 🌱 I’m currently learning **Advanced Machine Learning, Microsoft Fabric, System Design, Data Warehousing, Apache Kafka.**
 
